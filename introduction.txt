@@ -6,5 +6,5 @@ this is my first repository and leaarning basic html css js
   
   leaarning abt pull requests and merging 
   thank you
-learning git github vscode
+learning git github vscode and
 
