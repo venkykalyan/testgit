@@ -1,3 +1,7 @@
 hello this is venkatesh
 this is my first repository and leaarning basic html css js
 
+  
+  
+  
+  leaarning abt pull requests and merging 
